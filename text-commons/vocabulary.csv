@@ -85,8 +85,7 @@ participant,Property,"Participant","This role is intended for minor participants
 performer,Property,"Performer","It is recommended that this term be used only for creative participants whose role is not better indicated by a more specific term, such as 'speaker', 'signer', or 'singer'.",Person,Organization,Dataset
 photographer,Property,"Photographer","",Person,Organization,Dataset
 recorder,Property,"Recorder","",Person,Organization,Dataset
-translator,Property,"Register","Specifies the type of register (any of the varieties of a language that a speaker uses in a particular social context [Merriam-Webster]) of the contents of a language resource
-",Person,Organization,Dataset
+translator,Property,"Register","Specifies the type of register (any of the varieties of a language that a speaker uses in a particular social context [Merriam-Webster]) of the contents of a language resource",Person,Organization,Dataset
 researchParticipant,Property,"Research Participant","",Person,Organization,Dataset
 researcher,Property,"Researcher","",Person,Organization,Dataset
 responder,Property,"Responder","This person's voice can be heard (or their words can be read) in the resource, typically saying the language-appropriate equivalent of ""uh-huh"", ""amen"", ""you don't say"", etc. This role is sometimes referred to as a ""yes-sayer"", ""backchanneler, or ""co-conversant"".",Person,Organization,Dataset
