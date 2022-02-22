@@ -69,29 +69,29 @@ TranslationAnnotation,Class,"Translation","A translation is a version of the res
 UnintelligibleSpeechText,Class,"Unintelligible speech","The resource consists of utterances that are not intended to be interpretable as ordinary language.",,
 WordlistLexicon,Class,"Word list","The resource includes a word list.",,
 WordnetLexicon,Class,"WordNet","The resource includes a semantic wordnet.",,
-annotator,Property,"Annotator","",Person,Organization,Dataset
-author,Property,"Author","",Person,Organization,Dataset
-compiler,Property,"Compiler","This refers to someone who creates a single resource with multiple parts, such as a book of short stories, or a person who produces a corpus of resources, which may be archived separately.",Person,Organization,Dataset
-consultant,Property,"Consultant","This term is commonly used by field linguists for the native speakers who work with them in describing and analyzing a language. They contribute their expertise in their native language to the resource, although their speech, sign, or writing may not appear directly in the resource. In some parts of the world the preferred term for this role is ""informant"".",Person,Organization,Dataset
-contributor,Property,"Contributor","",Person,Organization,Dataset
-dataInputter,Property,"Data Inputter","",Person,Organization,Dataset
-depositor,Property,"Depositor","",Person,Organization,Dataset
-developer,Property,"Developer","A software programmer, designer, or analyst; a designer of a questionnaire or research task.",Person,Organization,Dataset
-editor,Property,"Editor","This role includes anyone whose role was editorial in nature, such as proof-readers, debuggers, testers, etc. It may overlap the Compiler role in some cases.",Person,Organization,Dataset
-illustrator,Property,"Illustrator","",Person,Organization,Dataset
-interpreter,Property,"Interpreter","The choice between 'interpreter' and 'translator' may depend on the dynamics of the resource creation event or process. Generally, if the participant is translating 'live'; that is, while the speaker or signer is speaking or signing, she or he should be identified as an interpreter. Also, some discourse genres include a participant who interprets or explains a performance of some kind.",Person,Organization,Dataset
-interviewer,Property,"Interviewer","",Person,Organization,Dataset
-participant,Property,"Participant","This role is intended for minor participants such as audience members or other peripherally-involved participants in the event. These interlocutors need not have been physically present. They could be participants in some form of long-distance communication, such as lurkers in an online discussion, or they may have participated in general sense of having allowed the creation event to take place, such as the mayor of an indigenous community.",Person,Organization,Dataset
-performer,Property,"Performer","It is recommended that this term be used only for creative participants whose role is not better indicated by a more specific term, such as 'speaker', 'signer', or 'singer'.",Person,Organization,Dataset
-photographer,Property,"Photographer","",Person,Organization,Dataset
-recorder,Property,"Recorder","",Person,Organization,Dataset
-translator,Property,"Register","Specifies the type of register (any of the varieties of a language that a speaker uses in a particular social context [Merriam-Webster]) of the contents of a language resource",Person,Organization,Dataset
-researchParticipant,Property,"Research Participant","",Person,Organization,Dataset
-researcher,Property,"Researcher","",Person,Organization,Dataset
-responder,Property,"Responder","This person's voice can be heard (or their words can be read) in the resource, typically saying the language-appropriate equivalent of ""uh-huh"", ""amen"", ""you don't say"", etc. This role is sometimes referred to as a ""yes-sayer"", ""backchanneler, or ""co-conversant"".",Person,Organization,Dataset
-signer,Property,"Signer","Signers are those whose gestures predominate in a recorded or filmed resource. (This resource may be a transcription of that recording.)",Person,Organization,Dataset
-singer,Property,"Singer","",Person,Organization,Dataset
-speaker,Property,"Speaker","Speakers are those whose voices predominate in a recorded or filmed resource. (This resource may be a transcription of that recording.)",Person,Organization,Dataset
-sponsor,Property,"Sponsor","",Person,Organization,Dataset
-transcriber,Property,"Transcriber","",Person,Organization,Dataset
-translator,Property,"Translator","",Person,Organization,Dataset
+annotator,Property,"Annotator","",Person,Organization
+author,Property,"Author","",Person,Organization
+compiler,Property,"Compiler","This refers to someone who creates a single resource with multiple parts, such as a book of short stories, or a person who produces a corpus of resources, which may be archived separately.",Person,Organization
+consultant,Property,"Consultant","This term is commonly used by field linguists for the native speakers who work with them in describing and analyzing a language. They contribute their expertise in their native language to the resource, although their speech, sign, or writing may not appear directly in the resource. In some parts of the world the preferred term for this role is ""informant"".",Person,Organization
+contributor,Property,"Contributor","",Person,Organization
+dataInputter,Property,"Data Inputter","",Person,Organization
+depositor,Property,"Depositor","",Person,Organization
+developer,Property,"Developer","A software programmer, designer, or analyst; a designer of a questionnaire or research task.",Person,Organization
+editor,Property,"Editor","This role includes anyone whose role was editorial in nature, such as proof-readers, debuggers, testers, etc. It may overlap the Compiler role in some cases.",Person,Organization
+illustrator,Property,"Illustrator","",Person,Organization
+interpreter,Property,"Interpreter","The choice between 'interpreter' and 'translator' may depend on the dynamics of the resource creation event or process. Generally, if the participant is translating 'live'; that is, while the speaker or signer is speaking or signing, she or he should be identified as an interpreter. Also, some discourse genres include a participant who interprets or explains a performance of some kind.",Person,Organization
+interviewer,Property,"Interviewer","",Person,Organization
+participant,Property,"Participant","This role is intended for minor participants such as audience members or other peripherally-involved participants in the event. These interlocutors need not have been physically present. They could be participants in some form of long-distance communication, such as lurkers in an online discussion, or they may have participated in general sense of having allowed the creation event to take place, such as the mayor of an indigenous community.",Person,Organization
+performer,Property,"Performer","It is recommended that this term be used only for creative participants whose role is not better indicated by a more specific term, such as 'speaker', 'signer', or 'singer'.",Person,Organization
+photographer,Property,"Photographer","",Person,Organization
+recorder,Property,"Recorder","",Person,Organization
+translator,Property,"Register","Specifies the type of register (any of the varieties of a language that a speaker uses in a particular social context [Merriam-Webster]) of the contents of a language resource",Person,Organization
+researchParticipant,Property,"Research Participant","",Person,Organization
+researcher,Property,"Researcher","",Person,Organization
+responder,Property,"Responder","This person's voice can be heard (or their words can be read) in the resource, typically saying the language-appropriate equivalent of ""uh-huh"", ""amen"", ""you don't say"", etc. This role is sometimes referred to as a ""yes-sayer"", ""backchanneler, or ""co-conversant"".",Person,Organization
+signer,Property,"Signer","Signers are those whose gestures predominate in a recorded or filmed resource. (This resource may be a transcription of that recording.)",Person,Organization
+singer,Property,"Singer","",Person,Organization
+speaker,Property,"Speaker","Speakers are those whose voices predominate in a recorded or filmed resource. (This resource may be a transcription of that recording.)",Person,Organization
+sponsor,Property,"Sponsor","",Person,Organization
+transcriber,Property,"Transcriber","",Person,Organization
+translator,Property,"Translator","",Person,Organization
